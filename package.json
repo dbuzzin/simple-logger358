@@ -1,0 +1,25 @@
+{
+  "name": "simple-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbuzzin/simple-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "file",
+    "logging"
+  ],
+  "author": "Danny Pearson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbuzzin/simple-logger/issues"
+  },
+  "homepage": "https://github.com/dbuzzin/simple-logger#readme"
+}
